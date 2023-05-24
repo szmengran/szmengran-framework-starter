@@ -11,7 +11,7 @@
     </parent>
     
     <groupId>com.szmengran.framework</groupId>
-    <artifactId>szmengran-framework</artifactId>
+    <artifactId>szmengran-framework-starter</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <modules>
